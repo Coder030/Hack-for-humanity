@@ -49,7 +49,7 @@ export default function Home() {
             className="ml-[10px]"
           />
           <BlurText
-            text="Snap2Action!!"
+            text="Snap2Action!!   "
             delay={150}
             animateBy="words"
             direction="top"
